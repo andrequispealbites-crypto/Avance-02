@@ -1,0 +1,7 @@
+2026-06-30T21:13:06.046800700 - Cliente registrado: Andre
+2026-06-30T21:13:14.270545100 - Cliente registrado: maria
+2026-06-30T21:13:46.504930800 - Turno generado: T1 - DEPOSITO - NORMAL - PENDIENTE
+2026-06-30T21:27:28.942132800 - Cliente registrado: Andre Quispe
+2026-06-30T21:27:52.095550200 - Empleado registrado: Maria Lopez
+2026-06-30T21:28:18.064033100 - Turno generado: T1 - DEPOSITO - NORMAL - PENDIENTE
+2026-06-30T21:29:54.563070 - Turno finalizado: T1 - DEPOSITO - NORMAL - FINALIZADO
