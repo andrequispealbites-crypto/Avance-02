@@ -1,0 +1,2 @@
+Empleado{codigo=1, nombre='Cajero Principal'}
+Empleado{codigo=2, nombre='Maria Lopez'}

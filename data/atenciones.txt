@@ -1,0 +1,1 @@
+Atencion{turno=T1 - DEPOSITO - NORMAL - FINALIZADO, cajero=Cajero Principal, inicio=2026-06-30T21:29:54.562069, fin=2026-06-30T21:29:54.562069}
